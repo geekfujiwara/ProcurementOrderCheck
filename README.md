@@ -13,7 +13,13 @@ https://github.com/user-attachments/assets/ecd013c2-3f23-49d8-8718-3cbd12f1b8c2
 
 https://github.com/user-attachments/assets/78ca9550-21a5-4ae2-b359-d5b1e6ebb85b
 
-### インポート方法
+## 前提条件
+以下のライセンスが必要です。
+
+* Power Apps Premium 
+* Copilot Studio
+
+## インポート方法
 [最新のソリューション](https://github.com/geekfujiwara/ProcurementOrderCheck/releases/tag/ProcurementOrderCheck)をダウンロードします。
 
 [Power Apps ポータル](https://make.powerapps.com/)にアクセスします。
