@@ -3,9 +3,15 @@
 
 以下のように、企業名から資本金を調べ、取引内容から自動的に下請法の対象の企業かどうかを判定してくれます。
 
-![image](https://github.com/user-attachments/assets/f089889a-f31d-42a3-9460-8d8317ccff80)
+![image](https://github.com/user-attachments/assets/37cf0788-82d0-4b8f-89b9-fe0ec03bb9d6)
+
+## 自律型エージェントでの動作
 
 https://github.com/user-attachments/assets/ecd013c2-3f23-49d8-8718-3cbd12f1b8c2
+
+## Copilot Chat での動作
+
+https://github.com/user-attachments/assets/78ca9550-21a5-4ae2-b359-d5b1e6ebb85b
 
 ### インポート方法
 [最新のソリューション](https://github.com/geekfujiwara/ProcurementOrderCheck/releases/tag/ProcurementOrderCheck)をダウンロードします。
