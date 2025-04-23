@@ -41,9 +41,17 @@ https://github.com/user-attachments/assets/78ca9550-21a5-4ae2-b359-d5b1e6ebb85b
 
 ![image](https://github.com/user-attachments/assets/30c4fce0-1208-44dc-ad4e-ba9abf8dca7d)
 
+すべてのクラウドフローをオンにします。
+
 すべてのカスタマイズを公開します。
 
 ![image](https://github.com/user-attachments/assets/0cb8ab19-4a75-4afd-841a-ff9e5c6df7f9)
+
+さらに、エージェントに移り、エージェントの公開を行います。
+
+![image](https://github.com/user-attachments/assets/5e8158b1-def1-4007-80c8-3a0aa3c701aa)
+
+公開が完了したらトリガーされるようになります。
 
 これでソリューションのインポートが完了しました。
 
